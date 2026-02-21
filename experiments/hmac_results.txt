@@ -1,0 +1,10 @@
+Protocol: HMAC-based Authentication
+Timestamp Window: 5 seconds
+Hash Function: SHA-256
+Environment: Localhost simulation
+
+Protocol: HMAC-based Authentication
+Latency (seconds): 0.003
+Message Size (bytes): 90
+Timestamp Window: 5 seconds
+Environment: Localhost simulation

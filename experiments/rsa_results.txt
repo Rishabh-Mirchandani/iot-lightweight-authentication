@@ -1,0 +1,4 @@
+Protocol: RSA Authentication
+Latency (seconds): 0.85
+Encrypted Message Size (bytes): 256
+Environment: Localhost simulation

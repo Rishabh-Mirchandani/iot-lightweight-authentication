@@ -1,0 +1,5 @@
+Protocol   | Avg Latency (s) | Message Size (bytes)
+-----------------------------------------------
+RSA        | 0.92            | 256
+HMAC       | 0.004           | 90
+Trials     | 10
